@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-form-builder-flutter",
+  "capabilityKey": "planned:cms:form-builder",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_form_builder_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/form-builder.md",
+  "presentationPlan": "projects/cms/flutter/form-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
